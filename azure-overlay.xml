@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+    <repo priority="50" quality="experimental" status="unofficial">
+        <name>azure-overlay</name>
+        <description>Gentoo Overlay for Microsoft Azure.</description>
+        <homepage>https://github.com/euskadi31/azure-overlay</homepage>
+        <owner>
+            <email>axel@etcheverry.biz</email>
+        </owner>
+        <source type="git">https://github.com/euskadi31/azure-overlay.git</source>
+    </repo>
+</repositories>
